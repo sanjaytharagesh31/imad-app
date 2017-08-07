@@ -9,7 +9,7 @@ var articles = {
     date: "Aug 6, 2017",
     content:`<p>
                     This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.This is my first article.
-                </p>
+                </p>`
                 
     },
 
